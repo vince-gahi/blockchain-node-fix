@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement time-locked contract execution
 // Fix overflow bug in token calculation
+// Fix governance proposal approval logic
