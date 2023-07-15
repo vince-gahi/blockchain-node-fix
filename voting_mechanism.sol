@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Optimize decentralized application performance
 // Fix compatibility issues with MetaMask
+// Enhance privacy features using zk-STARKs
