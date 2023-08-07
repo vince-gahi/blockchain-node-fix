@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Optimize gas usage in smart contracts
 // Implement adaptive block size for Ethereum
+// Implement price feed oracles for tokens
