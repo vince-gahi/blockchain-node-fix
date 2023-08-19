@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Integrate decentralized oracles for data feeds
 // Optimize cross-chain communication
+// Add support for ERC-721A tokens
