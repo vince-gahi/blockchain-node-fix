@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
+// Fix governance proposal approval logic
