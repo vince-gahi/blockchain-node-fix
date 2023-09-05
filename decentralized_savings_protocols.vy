@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add governance proposal expiration feature
 // Improve token burning mechanism
+// Improve API rate limiting
