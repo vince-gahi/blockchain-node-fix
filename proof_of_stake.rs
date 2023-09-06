@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
 // Fix governance proposal approval logic
+// Refactor staking logic
