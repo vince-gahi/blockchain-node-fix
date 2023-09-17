@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix compatibility issues with major wallets
 // Add support for decentralized content distribution
+// Add security checks for contract deployment
