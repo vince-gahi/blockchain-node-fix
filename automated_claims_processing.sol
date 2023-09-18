@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Refactor staking logic
 // Enhance decentralized autonomous governance
+// Improve token burning mechanism
