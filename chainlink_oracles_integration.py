@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Improve multi-chain contract deployment
 // Add support for decentralized file storage
+// Fix compatibility issues with MetaMask
