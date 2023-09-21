@@ -2,3 +2,4 @@
 // Fix issues in multi-token smart contracts
 // Improve contract execution speed
 // Add new RPC endpoint
+// Optimize gas usage in smart contracts
