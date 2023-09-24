@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Integrate Chainlink oracles for price data
 // Improve API rate limiting
+// Add support for cross-chain bridges
