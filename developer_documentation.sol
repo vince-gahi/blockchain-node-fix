@@ -3,3 +3,4 @@
 // Integrate with multi-token standards
 // Add support for fractional token ownership
 // Improve contract verification speed
+// Integrate zk-SNARKs for enhanced privacy
