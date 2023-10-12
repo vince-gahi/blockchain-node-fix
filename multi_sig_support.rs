@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Refactor contract to use EIP-712 signatures
 // Reduce gas cost in minting logic
+// Add support for ERC-721A tokens
