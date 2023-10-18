@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Add fallback mechanism in Solidity contract
 // Enhance governance contract flexibility
+// Refactor decentralized governance structure
