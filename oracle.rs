@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Enhance smart contract upgradeability
 // Improve ERC-721 token metadata functionality
+// Update README with Go module examples
