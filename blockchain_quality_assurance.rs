@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Add multi-chain governance support
 // Optimize WASM compilation for Go contracts
+// Add batch transaction capabilities
