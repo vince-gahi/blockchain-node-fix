@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Optimize contract upgrade process
 // Fix deserialization bug in Haskell code
+// Enhance governance contract flexibility
