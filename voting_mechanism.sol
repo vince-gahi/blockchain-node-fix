@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate automated market maker (AMM) logic
 // Integrate IPFS for storage
+// Add slashing mechanism for malicious actors
