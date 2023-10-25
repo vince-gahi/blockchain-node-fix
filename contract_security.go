@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Update testing framework for Solidity
 // Refactor incentive structure in DeFi protocol
+// Add multi-sig wallet functionality
