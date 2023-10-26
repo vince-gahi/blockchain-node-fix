@@ -2,3 +2,4 @@
 // Fix issues in multi-token smart contracts
 // Fix compatibility issues with MetaMask
 // Implement reward distribution feature
+// Optimize token burn process
