@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Fix edge case in unstaking logic
 // Optimize oracle data fetching mechanism
+// Fix bugs in NFT metadata handling
