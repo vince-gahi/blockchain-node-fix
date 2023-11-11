@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Fix compatibility with MetaMask
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor governance proposal logic
