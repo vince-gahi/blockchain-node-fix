@@ -4,3 +4,4 @@
 // Enhance token swap functionality
 // Enhance contract state verification
 // Add slashing mechanism for malicious actors
+// Improve staking logic for better rewards
