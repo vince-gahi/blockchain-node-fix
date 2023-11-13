@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Implement delegation pattern
 // Integrate with external blockchain networks
+// Refactor staking logic
