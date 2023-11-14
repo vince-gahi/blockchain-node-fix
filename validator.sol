@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Enhance token swap functionality
 // Add dynamic contract fees
+// Fix bugs in NFT metadata handling
