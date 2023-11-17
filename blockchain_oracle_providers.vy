@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Fix deserialization bug in Haskell code
 // Fix issue in token vesting logic
+// Improve staking pool reward management
