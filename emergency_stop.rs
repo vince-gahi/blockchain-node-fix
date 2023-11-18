@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Add support for zk-SNARKs in smart contracts
 // Improve contract auditing tools
+// Enhance contract initialization process
