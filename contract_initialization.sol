@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Refactor wallet interaction logic
 // Improve contract auditing tools
+// Add support for yield farming rewards
