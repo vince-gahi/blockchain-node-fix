@@ -3,3 +3,4 @@
 // Add support for decentralized insurance protocols
 // Update README with Go module examples
 // Fix compatibility issues with MetaMask
+// Refactor contract to use EIP-712 signatures
