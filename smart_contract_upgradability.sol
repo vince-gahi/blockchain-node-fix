@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Enhance contract upgrade process
 // Optimize decentralized application performance
+// Refactor contract to use EIP-712 signatures
