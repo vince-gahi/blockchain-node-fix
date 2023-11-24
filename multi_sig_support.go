@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Add support for decentralized file storage
 // Fix errors in NFT minting logic
+// Fix overflow bug in token calculation
