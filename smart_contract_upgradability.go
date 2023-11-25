@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance transaction monitoring
 // Integrate with decentralized prediction markets
+// Refactor storage layout for better efficiency
