@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Add support for cross-chain bridges
 // Add governance proposal expiration feature
+// Implement adaptive block size for Ethereum
