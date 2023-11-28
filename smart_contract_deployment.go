@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Add dynamic contract fees
 // Add support for decentralized file storage
+// Add fallback mechanism in Solidity contract
