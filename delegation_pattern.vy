@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor governance proposal logic
+// Refactor multi-signature wallet code
