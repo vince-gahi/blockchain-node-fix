@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Implement automatic transaction retries
 // Improve token burning mechanism
+// Add support for decentralized file storage
