@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles for price data
 // Add unit tests for staking module
 // Add dynamic contract fees
+// Upgrade to latest Solidity version
