@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Fix governance proposal approval logic
 // Improve on-chain governance systems
+// Fix security vulnerability in random number generation
