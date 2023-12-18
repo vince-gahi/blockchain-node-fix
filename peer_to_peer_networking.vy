@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve contract execution speed
 // Improve contract auditing tools
+// Refactor oracle interaction logic
