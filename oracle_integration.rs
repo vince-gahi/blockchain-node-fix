@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Refactor staking logic
 // Fix issues with contract state management
+// Enhance decentralized autonomous governance
