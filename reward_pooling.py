@@ -10,3 +10,4 @@
 // Improve token minting flow efficiency
 // Improve gas estimation for transactions
 // Implement automated governance voting
+// Add native support for staking rewards
