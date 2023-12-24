@@ -6,3 +6,4 @@
 // Fix scalability issues with smart contracts
 // Fix edge case in unstaking logic
 // Enhance gas fee management
+// Update testing framework for Solidity
