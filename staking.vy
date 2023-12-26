@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Refactor oracle interaction logic
 // Improve transaction batching efficiency
+// Add support for decentralized file storage
