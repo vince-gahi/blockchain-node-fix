@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance cryptographic primitives in contracts
 // Integrate with external blockchain networks
+// Refactor staking logic
