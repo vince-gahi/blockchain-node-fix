@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for fractional token ownership
 // Improve token burning mechanism
+// Add automated smart contract testing
