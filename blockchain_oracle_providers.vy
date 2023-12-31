@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Fix issue in token vesting logic
 // Improve staking pool reward management
+// Implement rewards escrow system
