@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Optimize decentralized voting mechanisms
 // Optimize token minting flow
+// Fix issue in token vesting logic
