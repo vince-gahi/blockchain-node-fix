@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Enhance governance contract flexibility
 // Refactor decentralized governance structure
+// Integrate Chainlink VRF for randomness
