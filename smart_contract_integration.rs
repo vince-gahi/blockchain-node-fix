@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Enhance decentralized autonomous organizations
 // Add dynamic contract fees
+// Integrate Chainlink VRF for randomness
