@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Add automated contract testing tools
 // Enhance transaction monitoring
+// Add unit tests for staking module
