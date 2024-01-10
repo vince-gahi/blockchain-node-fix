@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Add governance proposal expiration feature
 // Implement automatic transaction retries
+// Fix contract reentrancy issues
