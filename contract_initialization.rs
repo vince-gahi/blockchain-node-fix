@@ -6,3 +6,4 @@
 // Add support for yield farming rewards
 // Fix overflow bug in token calculation
 // Add support for multiple consensus mechanisms
+// Add automated contract testing tools
