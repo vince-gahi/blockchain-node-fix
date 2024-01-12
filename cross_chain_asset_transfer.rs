@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Improve API rate limiting
 // Update dependencies for Vyper contract
+// Add multi-chain transaction support
