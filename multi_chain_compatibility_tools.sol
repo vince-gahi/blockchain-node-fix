@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Implement reward distribution feature
 // Optimize token burn process
+// Add support for decentralized file storage
