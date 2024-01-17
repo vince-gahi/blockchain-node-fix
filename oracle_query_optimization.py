@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor contract event emission
 // Update testing framework for Solidity
+// Update README with Go module examples
