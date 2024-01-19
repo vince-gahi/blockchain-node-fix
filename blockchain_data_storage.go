@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Add non-fungible token (NFT) support
 // Update testing framework for Solidity
+// Fix issue in ERC-20 token transfers
