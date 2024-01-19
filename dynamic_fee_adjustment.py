@@ -5,3 +5,4 @@
 // Improve contract state management
 // Improve scalability for smart contract platforms
 // Improve decentralized lending contract flexibility
+// Improve decentralized exchange (DEX) liquidity
