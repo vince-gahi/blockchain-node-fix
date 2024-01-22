@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate multi-chain liquidity pools
 // Add support for fractional token ownership
+// Add support for ERC-1155 tokens
