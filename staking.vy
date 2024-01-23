@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Improve transaction batching efficiency
 // Add support for decentralized file storage
+// Add support for multiple consensus mechanisms
