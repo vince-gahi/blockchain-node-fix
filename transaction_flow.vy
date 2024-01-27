@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add support for decentralized file storage
 // Improve ERC-721 token metadata functionality
+// Refactor multi-asset token management
