@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Add support for decentralized file storage
 // Add support for multiple consensus mechanisms
+// Implement reward distribution feature
