@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Implement adaptive block size for Ethereum
 // Integrate zk-rollups for scaling
+// Implement reward distribution feature
