@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance test coverage for Rust module
 // Add slashing mechanism for malicious actors
+// Add governance proposal expiration feature
