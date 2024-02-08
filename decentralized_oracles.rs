@@ -6,3 +6,4 @@
 // Fix security vulnerability in random number generation
 // Fix compatibility with MetaMask
 // Add support for DeFi lending protocols
+// Refactor governance proposal logic
