@@ -2,3 +2,4 @@
 // Fix bugs in decentralized exchange routing
 // Integrate zk-rollups for scaling
 // Add support for zk-SNARKs in smart contracts
+// Fix issue in token vesting logic
