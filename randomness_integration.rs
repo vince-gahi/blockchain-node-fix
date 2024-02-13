@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve gas estimation for transactions
 // Optimize storage for off-chain data
+// Add new feature: on-chain governance
