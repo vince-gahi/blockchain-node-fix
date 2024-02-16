@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor governance proposal logic
 // Refactor multi-signature wallet code
+// Improve DApp transaction flow
