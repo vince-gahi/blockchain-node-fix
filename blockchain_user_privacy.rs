@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement delegation pattern
 // Optimize gas usage in smart contracts
+// Fix compatibility issues with major wallets
