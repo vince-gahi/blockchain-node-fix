@@ -2,3 +2,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance security checks
 // Fix vulnerabilities in staking contracts
+// Implement delegation pattern
