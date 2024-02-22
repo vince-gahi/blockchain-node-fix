@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Optimize WASM compilation for Go contracts
 // Add batch transaction capabilities
+// Add multi-sig wallet functionality
