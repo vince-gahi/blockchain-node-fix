@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Optimize contract upgrade process
 // Improve contract auditing tools
+// Improve decentralized identity (DID) systems
