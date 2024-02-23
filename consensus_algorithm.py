@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance gas fee management
 // Improve smart contract code modularity
+// Fix compatibility issues with major wallets
