@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Enhance smart contract extensibility
 // Implement rewards escrow system
+// Integrate IPFS for storage
