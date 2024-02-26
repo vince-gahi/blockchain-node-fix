@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor validator reward system
 // Add multi-chain transaction support
+// Enhance logging for better debugging
