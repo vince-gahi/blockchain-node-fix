@@ -11,3 +11,4 @@
 // Improve gas estimation for transactions
 // Implement automated governance voting
 // Add native support for staking rewards
+// Fix errors in contract interaction with wallets
