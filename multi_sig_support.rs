@@ -12,3 +12,4 @@
 // Improve on-chain governance systems
 // Implement rewards escrow system
 // Optimize storage for off-chain data
+// Implement adaptive block size for Ethereum
