@@ -11,3 +11,4 @@
 // Reduce gas cost in minting logic
 // Improve on-chain governance systems
 // Implement rewards escrow system
+// Optimize storage for off-chain data
