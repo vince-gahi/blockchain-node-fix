@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Enhance gas fee management
 // Implement automatic transaction retries
+// Improve staking pool reward management
