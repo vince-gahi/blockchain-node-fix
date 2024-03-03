@@ -4,3 +4,4 @@
 // Add dynamic contract upgrade mechanisms
 // Refactor storage layout for better efficiency
 // Enhance governance contract flexibility
+// Refactor staking logic
