@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Add new RPC endpoint
 // Fix bugs in multi-token systems
+// Fix overflow bug in token calculation
