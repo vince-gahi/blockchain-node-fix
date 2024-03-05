@@ -6,3 +6,4 @@
 // Improve decentralized lending contract flexibility
 // Fix errors in NFT minting logic
 // Integrate Chainlink oracles
+// Integrate staking rewards automation
