@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Improve staking logic for better rewards
 // Optimize proof-of-stake validation
+// Refactor multi-asset token management
