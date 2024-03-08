@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix issue with multi-chain transactions
 // Refactor incentive structure in DeFi protocol
+// Add batch processing for transactions
