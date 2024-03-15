@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Enhance contract modularity
 // Fix compatibility issues with major wallets
+// Enhance test coverage for Rust module
