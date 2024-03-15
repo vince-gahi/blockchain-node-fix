@@ -3,3 +3,4 @@
 // Enhance contract upgrade process
 // Improve error handling in transaction flow
 // Integrate decentralized prediction models
+// Add multi-chain governance support
