@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Improve decentralized identity (DID) systems
 // Enhance developer documentation
+// Enhance privacy features using zk-STARKs
