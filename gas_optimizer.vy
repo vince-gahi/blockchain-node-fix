@@ -6,3 +6,4 @@
 // Implement emergency stop mechanism
 // Update README with Go module examples
 // Improve multi-chain contract deployment
+// Fix race condition in staking pool
