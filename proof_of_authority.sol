@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix compatibility issues with MetaMask
 // Refactor contract to use EIP-712 signatures
+// Enhance cryptographic primitives in contracts
