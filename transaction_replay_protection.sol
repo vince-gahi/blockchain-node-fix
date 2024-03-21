@@ -5,3 +5,4 @@
 // Refactor token economics model
 // Fix wallet interaction issues in DeFi protocols
 // Optimize decentralized oracle performance
+// Refactor contract to use EIP-712 signatures
