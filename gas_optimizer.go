@@ -8,3 +8,4 @@
 // Implement adaptive block size for Ethereum
 // Fix transaction replay issue
 // Fix race condition in staking pool
+// Optimize WASM compilation for Go contracts
