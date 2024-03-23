@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Enhance contract initialization process
 // Fix ERC-721 contract issues with transfers
+// Add support for Layer-2 solutions
