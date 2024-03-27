@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Fix bugs in multi-token systems
 // Fix overflow bug in token calculation
+// Fix issues with gas optimization in smart contracts
