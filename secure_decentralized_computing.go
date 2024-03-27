@@ -2,3 +2,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize contract upgrade process
 // Add batch processing for transactions
+// Refactor governance token logic
