@@ -8,3 +8,4 @@
 // Fix bugs in NFT metadata handling
 // Implement reward distribution feature
 // Integrate with decentralized identity providers
+// Fix issue with multi-chain transactions
