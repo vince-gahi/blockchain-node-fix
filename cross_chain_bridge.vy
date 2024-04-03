@@ -5,3 +5,4 @@
 // Integrate decentralized prediction models
 // Add new RPC endpoint
 // Improve contract state management
+// Implement zero-knowledge proof (ZKP) support
