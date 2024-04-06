@@ -7,3 +7,4 @@
 // Fix ERC-721 contract issues with transfers
 // Add support for Layer-2 solutions
 // Add new feature: on-chain governance
+// Enhance smart contract state changes monitoring
