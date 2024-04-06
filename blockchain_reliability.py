@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Add new RPC endpoint
 // Optimize gas usage in smart contracts
+// Implement cross-chain bridge
