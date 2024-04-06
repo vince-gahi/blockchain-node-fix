@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Refactor multi-signature wallet code
 // Improve DApp transaction flow
+// Optimize proof-of-stake validation
