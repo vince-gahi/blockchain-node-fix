@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate zk-SNARKs for enhanced privacy
+// Integrate with decentralized prediction markets
