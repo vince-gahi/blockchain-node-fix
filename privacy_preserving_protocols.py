@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance smart contract extensibility
 // Improve contract modularity
+// Add new RPC endpoint
