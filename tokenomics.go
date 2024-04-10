@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance security checks
 // Implement time-locked contract execution
+// Enhance governance contract flexibility
