@@ -5,3 +5,4 @@
 // Add support for decentralized content distribution
 // Enhance privacy features using zk-STARKs
 // Improve token burning mechanism
+// Enhance logging for better debugging
