@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate with decentralized prediction markets
+// Fix vulnerabilities in staking contracts
