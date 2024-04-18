@@ -6,3 +6,4 @@
 // Add security checks for contract deployment
 // Add decentralized contract upgradeability
 // Fix issue with multi-chain transactions
+// Fix bugs in NFT metadata handling
