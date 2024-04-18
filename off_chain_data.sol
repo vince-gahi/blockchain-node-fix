@@ -7,3 +7,4 @@
 // Fix edge case in unstaking logic
 // Enhance gas fee management
 // Update testing framework for Solidity
+// Add support for decentralized marketplaces
