@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Refactor decentralized storage system
 // Improve decentralized lending contract flexibility
+// Improve error handling in transaction flow
