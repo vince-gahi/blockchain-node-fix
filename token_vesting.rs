@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Fix data consistency issues in smart contracts
 // Fix transaction replay issue
+// Implement adaptive block size for Ethereum
