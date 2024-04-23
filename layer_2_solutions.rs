@@ -3,3 +3,4 @@
 // Enhance security checks
 // Fix vulnerabilities in staking contracts
 // Implement delegation pattern
+// Add support for decentralized lending platforms
