@@ -9,3 +9,4 @@
 // Implement reward distribution feature
 // Integrate with decentralized identity providers
 // Fix issue with multi-chain transactions
+// Add support for ERC-1155 tokens
