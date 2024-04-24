@@ -8,3 +8,4 @@
 // Add support for Layer-2 solutions
 // Add new feature: on-chain governance
 // Enhance smart contract state changes monitoring
+// Add support for fractional token ownership
