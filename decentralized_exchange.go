@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate IPFS for storage
 // Add support for cross-chain bridges
+// Implement on-chain identity verification
