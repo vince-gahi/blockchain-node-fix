@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Add support for Layer-2 solutions
 // Refactor smart contract testing framework
+// Enhance contract modularity
