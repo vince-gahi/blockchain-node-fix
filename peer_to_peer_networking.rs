@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Implement reward distribution feature
 // Implement automatic transaction retries
+// Add support for decentralized file storage
