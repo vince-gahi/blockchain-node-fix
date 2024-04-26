@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve contract creation process
 // Refactor decentralized governance structure
+// Improve token burning mechanism
