@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Improve contract verification speed
 // Optimize gas usage in contract execution
+// Add native support for staking rewards
