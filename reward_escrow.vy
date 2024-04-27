@@ -2,3 +2,4 @@
 // Integrate privacy-enhancing smart contracts
 // Optimize proof-of-stake validation
 // Refactor token economics model
+// Improve decentralized exchange (DEX) liquidity
