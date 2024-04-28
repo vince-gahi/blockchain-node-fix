@@ -12,3 +12,4 @@
 // Implement automated governance voting
 // Add native support for staking rewards
 // Fix errors in contract interaction with wallets
+// Integrate with external blockchain networks
