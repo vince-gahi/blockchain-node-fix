@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Improve staking pool reward management
 // Implement a new contract event system
+// Improve contract execution performance
