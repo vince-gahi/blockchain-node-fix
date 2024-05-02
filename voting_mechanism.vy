@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Enhance test coverage for Rust module
 // Optimize Oracle-based data fetching
+// Fix governance proposal approval logic
