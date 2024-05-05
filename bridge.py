@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Integrate decentralized oracles for data feeds
 // Fix issues with token vesting contracts
+// Fix vulnerabilities in staking contracts
