@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Add multi-sig wallet functionality
 // Improve transaction batching efficiency
+// Add support for decentralized insurance protocols
