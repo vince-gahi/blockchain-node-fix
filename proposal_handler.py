@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Integrate IPFS for storage
 // Fix contract reentrancy issues
+// Add support for Layer-2 solutions
