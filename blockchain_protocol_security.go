@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Optimize gas usage for contract deployment
 // Enhance logging for better debugging
+// Optimize storage for off-chain data
