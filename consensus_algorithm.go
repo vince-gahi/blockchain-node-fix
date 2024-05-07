@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Enhance logging for better debugging
 // Integrate Chainlink VRF for randomness
+// Improve gas estimation for transactions
