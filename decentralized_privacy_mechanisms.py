@@ -2,3 +2,4 @@
 // Optimize gas usage for contract deployment
 // Add multi-sig wallet functionality
 // Fix wallet interaction issues in DeFi protocols
+// Add support for ERC-721A tokens
