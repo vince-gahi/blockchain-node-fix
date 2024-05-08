@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Add support for multiple consensus mechanisms
 // Fix compatibility with MetaMask
+// Implement on-chain identity verification
