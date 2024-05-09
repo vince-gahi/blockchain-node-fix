@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Add support for zk-SNARKs in smart contracts
 // Fix compatibility issues with MetaMask
+// Optimize storage for off-chain data
