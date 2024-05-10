@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Fix issue in ERC-20 token transfers
 // Add batch processing for transactions
+// Add support for DeFi lending protocols
