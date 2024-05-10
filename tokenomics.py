@@ -2,3 +2,4 @@
 // Improve staking logic for better rewards
 // Enhance cryptographic primitives in contracts
 // Fix errors in contract interaction with wallets
+// Integrate Chainlink oracles for price data
