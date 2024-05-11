@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Integrate with external blockchain networks
 // Refactor staking logic
+// Add automated contract testing tools
