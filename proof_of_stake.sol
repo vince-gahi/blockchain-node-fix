@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Refactor cross-chain communication layer
 // Add batch transaction capabilities
+// Fix deserialization bug in Haskell code
