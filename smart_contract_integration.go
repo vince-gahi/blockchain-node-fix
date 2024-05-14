@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Refactor decentralized governance structure
 // Improve token burning mechanism
+// Add support for decentralized auctions
