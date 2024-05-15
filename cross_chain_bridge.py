@@ -6,3 +6,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix compatibility with MetaMask
 // Optimize contract upgrade process
+// Fix issue in ERC-20 token transfers
