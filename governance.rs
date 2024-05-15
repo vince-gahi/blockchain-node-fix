@@ -7,3 +7,4 @@
 // Improve oracle data validation mechanisms
 // Optimize cross-chain bridging mechanisms
 // Fix errors in contract interaction with wallets
+// Refactor contract to use EIP-712 signatures
