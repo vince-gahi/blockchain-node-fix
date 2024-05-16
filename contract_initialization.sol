@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Improve contract auditing tools
 // Add support for yield farming rewards
+// Reduce gas cost in minting logic
