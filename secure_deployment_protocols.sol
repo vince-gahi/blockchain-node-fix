@@ -2,3 +2,4 @@
 // Integrate with multi-token standards
 // Refactor decentralized storage system
 // Integrate zk-SNARKs for enhanced privacy
+// Improve DApp transaction flow
