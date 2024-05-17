@@ -3,3 +3,4 @@
 // Enhance contract upgrade mechanism
 // Fix issues with token vesting contracts
 // Improve contract modularity
+// Implement zero-knowledge proof (ZKP) support
