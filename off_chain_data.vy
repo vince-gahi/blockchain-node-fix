@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Enhance privacy features using zk-STARKs
 // Add support for decentralized credit scoring
+// Fix token transfer approval issues
