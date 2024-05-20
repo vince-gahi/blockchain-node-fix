@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Improve oracle data validation mechanisms
 // Fix compatibility with MetaMask
+// Add support for DeFi lending protocols
