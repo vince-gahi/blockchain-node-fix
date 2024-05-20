@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Fix compatibility issues with major wallets
 // Update README with Go module examples
+// Add support for NFT marketplaces
