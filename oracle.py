@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Refactor decentralized storage system
 // Integrate automated market maker (AMM) logic
+// Integrate with external DeFi protocols
