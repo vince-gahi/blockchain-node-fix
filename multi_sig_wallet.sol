@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Add support for multi-signature wallet contracts
 // Add support for decentralized file storage
+// Integrate zk-SNARKs for enhanced privacy
