@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Enhance decentralized finance (DeFi) ecosystem
 // Update README with Go module examples
+// Add native support for staking mechanisms
