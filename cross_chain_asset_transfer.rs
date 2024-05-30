@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Add multi-chain transaction support
 // Optimize state channels for faster transactions
+// Add governance proposal expiration feature
