@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate multi-chain liquidity pools
 // Integrate multi-chain liquidity pools
+// Integrate flash loan functionality
