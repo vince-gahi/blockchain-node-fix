@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Enhance governance contract flexibility
 // Refactor staking logic
+// Add support for decentralized insurance protocols
