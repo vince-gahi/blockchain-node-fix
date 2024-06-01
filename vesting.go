@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Enhance developer documentation
 // Fix overflow bug in token calculation
+// Refactor multi-asset token management
