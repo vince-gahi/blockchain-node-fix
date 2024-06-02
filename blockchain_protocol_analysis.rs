@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Improve oracle data validation mechanisms
 // Fix issue in ERC-20 token transfers
+// Enhance governance contract flexibility
