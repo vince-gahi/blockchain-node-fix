@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Fix ERC-1155 contract interactions
 // Fix race condition in staking pool
+// Fix vulnerabilities in staking contracts
