@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix issues in multi-token smart contracts
 // Improve contract execution speed
+// Fix governance proposal approval logic
