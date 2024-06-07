@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize gas usage in contract execution
 // Implement cross-platform contract compatibility
+// Integrate Chainlink VRF for randomness
