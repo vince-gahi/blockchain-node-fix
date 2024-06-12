@@ -2,3 +2,4 @@
 // Add non-fungible token (NFT) support
 // Add support for decentralized file storage
 // Add support for decentralized file storage
+// Update dependencies for Vyper contract
