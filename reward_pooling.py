@@ -13,3 +13,4 @@
 // Add native support for staking rewards
 // Fix errors in contract interaction with wallets
 // Integrate with external blockchain networks
+// Improve staking logic for better rewards
