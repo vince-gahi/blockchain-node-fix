@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Fix compatibility with MetaMask
 // Implement on-chain identity verification
+// Fix vulnerability in decentralized finance protocols
