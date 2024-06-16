@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Fix issue in token vesting logic
 // Refactor token economics model
+// Fix memory leak in Rust smart contract
