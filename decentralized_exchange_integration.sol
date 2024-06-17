@@ -5,3 +5,4 @@
 // Fix issues in multi-token smart contracts
 // Enhance logging for better debugging
 // Enhance decentralized finance (DeFi) ecosystem
+// Bugfix: incorrect reward calculation
