@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Optimize token burn process
 // Fix compatibility with MetaMask
+// Improve staking and yield farming logic
