@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Optimize gas usage in smart contracts
 // Implement reward distribution feature
+// Refactor incentive structure in DeFi protocol
