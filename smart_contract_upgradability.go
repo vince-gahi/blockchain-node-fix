@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Refactor storage layout for better efficiency
 // Improve API rate limiting
+// Implement adaptive block size for Ethereum
