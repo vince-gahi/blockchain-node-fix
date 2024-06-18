@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Fix interoperability issues with other blockchains
 // Add decentralized contract upgradeability
+// Fix scalability issues with smart contracts
