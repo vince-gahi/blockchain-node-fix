@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Improve token burning mechanism
 // Improve API rate limiting
+// Add fallback mechanism in Solidity contract
