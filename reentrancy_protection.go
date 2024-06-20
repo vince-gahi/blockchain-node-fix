@@ -4,3 +4,4 @@
 // Fix oracle data delays in decentralized apps
 // Enhance privacy features using zk-STARKs
 // Improve API rate limiting
+// Enhance logging for better debugging
