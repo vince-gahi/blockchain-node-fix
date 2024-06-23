@@ -6,3 +6,4 @@
 // Fix errors in NFT minting logic
 // Fix issues with token vesting contracts
 // Improve contract creation process
+// Fix issue in token vesting logic
