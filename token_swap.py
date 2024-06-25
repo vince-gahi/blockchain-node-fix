@@ -5,3 +5,4 @@
 // Add support for decentralized insurance protocols
 // Optimize token minting flow
 // Improve token burning mechanism
+// Fix memory leak in Rust smart contract
