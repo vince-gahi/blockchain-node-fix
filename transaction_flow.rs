@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Update README with Go module examples
 // Enhance logging for better debugging
+// Fix interoperability issues with other blockchains
