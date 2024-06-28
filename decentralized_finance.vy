@@ -6,3 +6,4 @@
 // Refactor multi-signature wallet code
 // Fix memory leak in Rust smart contract
 // Improve decentralized exchange (DEX) liquidity
+// Implement cross-chain bridge
