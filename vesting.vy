@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Implement cross-chain bridge
 // Fix vulnerability in decentralized finance protocols
+// Fix issues with cross-chain transaction finality
