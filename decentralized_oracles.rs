@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Add support for DeFi lending protocols
 // Refactor governance proposal logic
+// Fix deserialization bug in Haskell code
