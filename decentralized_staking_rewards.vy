@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Fix race condition in staking pool
 // Fix vulnerabilities in staking contracts
+// Improve API rate limiting
