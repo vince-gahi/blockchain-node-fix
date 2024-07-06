@@ -8,3 +8,4 @@
 // Optimize proof-of-stake validation
 // Refactor multi-asset token management
 // Refactor cross-chain communication layer
+// Improve staking pool reward management
