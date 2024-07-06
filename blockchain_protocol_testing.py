@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix issues in token transfer logic
 // Enhance contract initialization process
+// Fix interoperability issues with other blockchains
