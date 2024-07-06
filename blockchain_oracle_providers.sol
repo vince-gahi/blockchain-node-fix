@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Add decentralized contract upgradeability
 // Fix issues with ERC-20 token approvals
+// Refactor voting mechanism
