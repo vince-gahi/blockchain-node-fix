@@ -5,3 +5,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate Chainlink oracles
 // Improve gas estimation for transactions
+// Refactor storage layout for better efficiency
