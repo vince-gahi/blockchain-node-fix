@@ -7,3 +7,4 @@
 // Fix issues with token vesting contracts
 // Improve contract creation process
 // Fix issue in token vesting logic
+// Enhance contract modularity
