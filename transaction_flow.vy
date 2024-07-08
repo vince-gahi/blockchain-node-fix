@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues in token transfer logic
 // Add multi-chain transaction support
+// Refactor token economics model
