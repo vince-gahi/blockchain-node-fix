@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Add support for decentralized credit scoring
 // Add governance proposal expiration feature
+// Improve token burning mechanism
