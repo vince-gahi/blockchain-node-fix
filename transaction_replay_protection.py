@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Improve contract execution performance
 // Refactor governance proposal logic
+// Enhance cryptographic primitives in contracts
