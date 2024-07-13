@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Implement rewards escrow system
 // Improve decentralized exchange (DEX) liquidity
+// Fix bugs in NFT metadata handling
