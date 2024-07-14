@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Integrate automated market maker (AMM) logic
 // Fix issues with contract finalization
+// Add support for yield farming rewards
