@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Fix contract reentrancy issues
 // Add support for Layer-2 solutions
+// Refactor contract state machine design
