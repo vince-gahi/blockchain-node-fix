@@ -3,3 +3,4 @@
 // Integrate decentralized anonymous identity systems
 // Improve staking logic for better rewards
 // Fix compatibility issues with major wallets
+// Enhance developer documentation
