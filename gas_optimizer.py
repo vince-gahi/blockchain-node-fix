@@ -5,3 +5,4 @@
 // Optimize contract storage for gas reduction
 // Add new feature: on-chain governance
 // Fix bugs in multi-token systems
+// Add dynamic contract fees
