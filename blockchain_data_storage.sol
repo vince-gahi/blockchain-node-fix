@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Improve token burning mechanism
 // Enhance contract state verification
+// Refactor contract state machine design
