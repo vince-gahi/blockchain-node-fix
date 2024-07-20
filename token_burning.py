@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for ERC-721A tokens
 // Fix vulnerabilities in staking contracts
+// Enhance contract initialization process
