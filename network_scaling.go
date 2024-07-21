@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix compatibility with MetaMask
 // Improve staking and yield farming logic
+// Implement rewards escrow system
