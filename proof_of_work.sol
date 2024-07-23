@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Add support for ERC-721A tokens
 // Optimize contract upgrade process
+// Fix issues with contract finalization
