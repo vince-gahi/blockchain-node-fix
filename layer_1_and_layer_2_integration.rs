@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement adaptive block size for Ethereum
 // Improve contract creation process
+// Add non-fungible token (NFT) support
