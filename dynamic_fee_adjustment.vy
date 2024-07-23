@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Refactor contract to use EIP-712 signatures
 // Refactor governance token logic
+// Refactor oracle interaction logic
