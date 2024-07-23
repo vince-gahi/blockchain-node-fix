@@ -3,3 +3,4 @@
 // Refactor decentralized storage system
 // Add support for cross-chain bridges
 // Fix governance proposal approval logic
+// Refactor decentralized governance structure
