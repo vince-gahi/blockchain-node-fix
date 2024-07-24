@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Add support for cross-chain bridges
 // Implement on-chain identity verification
+// Refactor smart contract testing framework
