@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Improve oracle data validation mechanisms
 // Add support for ERC-721A tokens
+// Refactor validator reward system
