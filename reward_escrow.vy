@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Improve decentralized exchange (DEX) liquidity
 // Enhance logging for better debugging
+// Integrate IPFS for storage
