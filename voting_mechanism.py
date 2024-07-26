@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Optimize token burn process
 // Enhance gas fee management
+// Implement on-chain fee adjustment mechanisms
