@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Fix overflow bug in token calculation
 // Refactor multi-asset token management
+// Add batch transaction capabilities
