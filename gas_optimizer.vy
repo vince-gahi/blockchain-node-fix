@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Improve multi-chain contract deployment
 // Fix race condition in staking pool
+// Refactor cross-chain communication layer
