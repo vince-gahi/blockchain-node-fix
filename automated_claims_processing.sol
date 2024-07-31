@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add native support for staking rewards
 // Optimize gas usage in smart contracts
+// Add support for decentralized insurance protocols
