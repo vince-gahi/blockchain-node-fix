@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Refactor token economics model
 // Fix memory leak in Rust smart contract
+// Fix ERC-20 token interface bugs
