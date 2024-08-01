@@ -3,3 +3,4 @@
 // Optimize decentralized oracle performance
 // Code cleanup and documentation update
 // Integrate decentralized oracles for data feeds
+// Improve token burning mechanism
