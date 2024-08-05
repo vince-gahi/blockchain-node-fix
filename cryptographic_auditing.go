@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Integrate multi-chain liquidity pools
 // Enhance privacy features using zk-STARKs
+// Integrate zk-rollups for scaling
