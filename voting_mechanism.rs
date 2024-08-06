@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Optimize decentralized voting mechanisms
 // Enhance decentralized finance (DeFi) ecosystem
+// Integrate IPFS for storage
