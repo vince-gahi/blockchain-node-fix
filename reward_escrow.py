@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Refactor smart contract testing framework
 // Fix scalability issues with smart contracts
+// Fix errors in contract interaction with wallets
