@@ -6,3 +6,4 @@
 // Add multi-chain transaction support
 // Optimize state channels for faster transactions
 // Add governance proposal expiration feature
+// Fix ERC-20 token interface bugs
