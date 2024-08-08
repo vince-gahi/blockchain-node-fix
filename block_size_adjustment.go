@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Add support for zk-SNARKs in smart contracts
 // Implement liquidity pool staking mechanism
+// Improve smart contract code modularity
