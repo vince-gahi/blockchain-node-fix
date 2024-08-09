@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Improve contract creation process
 // Fix governance proposal approval logic
+// Refactor staking logic
