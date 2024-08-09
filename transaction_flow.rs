@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Enhance logging for better debugging
 // Fix interoperability issues with other blockchains
+// Enhance decentralized autonomous governance
