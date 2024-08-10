@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance decentralized finance (DeFi) ecosystem
 // Integrate IPFS for storage
+// Add support for decentralized credit scoring
