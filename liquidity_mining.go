@@ -6,3 +6,4 @@
 // Integrate decentralized anonymous identity systems
 // Add automated smart contract testing
 // Improve decentralized oracle protocols
+// Add support for delegation in governance
