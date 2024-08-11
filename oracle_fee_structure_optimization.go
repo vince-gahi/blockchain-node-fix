@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Update testing framework for Solidity
 // Improve DApp transaction flow
+// Improve decentralized oracle protocols
