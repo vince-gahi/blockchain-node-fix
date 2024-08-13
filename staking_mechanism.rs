@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Improve staking pool reward management
 // Add multi-chain governance support
+// Add support for ERC-721A tokens
