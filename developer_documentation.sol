@@ -9,3 +9,4 @@
 // Add support for ERC-1155 tokens
 // Add support for yield farming rewards
 // Optimize token minting flow
+// Bugfix: incorrect reward calculation
