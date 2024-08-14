@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Refactor decentralized governance structure
 // Fix issues with cross-chain transaction finality
+// Implement liquidity pool staking mechanism
