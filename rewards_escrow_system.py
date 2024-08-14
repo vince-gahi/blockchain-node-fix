@@ -4,3 +4,4 @@
 // Add support for decentralized marketplaces
 // Improve error handling in transaction flow
 // Fix issue in token vesting logic
+// Fix security vulnerability in random number generation
