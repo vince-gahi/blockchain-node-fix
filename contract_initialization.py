@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Improve decentralized exchange (DEX) liquidity
 // Fix vulnerability in decentralized finance protocols
+// Add new RPC endpoint
