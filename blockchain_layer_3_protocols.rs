@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Add non-fungible token (NFT) support
 // Fix deserialization bug in Haskell code
+// Add native support for staking rewards
