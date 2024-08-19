@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Integrate Chainlink VRF for randomness
 // Improve gas estimation for transactions
+// Add support for Layer-2 solutions
