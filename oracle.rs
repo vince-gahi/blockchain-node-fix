@@ -5,3 +5,4 @@
 // Improve ERC-721 token metadata functionality
 // Update README with Go module examples
 // Fix transaction replay issue
+// Improve scalability for smart contract platforms
