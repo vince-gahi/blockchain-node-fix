@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Integrate with decentralized prediction markets
 // Enhance contract event handling
+// Integrate Chainlink oracles for price data
