@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Add support for DeFi lending protocols
 // Improve multi-chain contract deployment
+// Fix issue with multi-chain transactions
