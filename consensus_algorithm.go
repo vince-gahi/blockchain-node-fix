@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve gas estimation for transactions
 // Add support for Layer-2 solutions
+// Update dependencies for Vyper contract
