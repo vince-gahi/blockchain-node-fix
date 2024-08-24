@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor ERC-721 transfer logic
 // Add automated token buyback mechanism
+// Integrate zk-SNARKs for enhanced privacy
