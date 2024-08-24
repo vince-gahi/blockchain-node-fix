@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Fix compatibility with MetaMask
 // Improve token minting flow efficiency
+// Improve decentralized identity (DID) systems
