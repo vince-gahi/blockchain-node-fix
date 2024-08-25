@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Add support for ERC-1155 tokens
 // Fix compatibility issues with major wallets
+// Enhance smart contract extensibility
