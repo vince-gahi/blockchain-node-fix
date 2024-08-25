@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate zk-rollups for scaling
 // Fix issue in token vesting logic
+// Refactor token economics model
