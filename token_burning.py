@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Fix vulnerabilities in staking contracts
 // Enhance contract initialization process
+// Implement price feed oracles for tokens
