@@ -6,3 +6,4 @@
 // Refactor governance token logic
 // Refactor oracle interaction logic
 // Enhance security checks
+// Implement on-chain identity verification
