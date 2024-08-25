@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Fix deserialization bug in Haskell code
 // Implement automatic transaction retries
+// Improve ERC-721 token metadata functionality
