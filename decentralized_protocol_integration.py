@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Integrate decentralized oracles for data feeds
 // Improve token burning mechanism
+// Add slashing mechanism for malicious actors
