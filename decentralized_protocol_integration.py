@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve token burning mechanism
 // Add slashing mechanism for malicious actors
+// Improve security for token minting contracts
