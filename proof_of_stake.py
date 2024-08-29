@@ -3,3 +3,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Add security checks for contract deployment
 // Improve DApp transaction flow
+// Fix issues with cross-chain transaction finality
