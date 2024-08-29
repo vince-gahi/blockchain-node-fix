@@ -7,3 +7,4 @@
 // Implement cross-platform contract compatibility
 // Integrate Chainlink VRF for randomness
 // Improve smart contract logging
+// Improve token burning mechanism
