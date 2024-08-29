@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Fix compatibility issues with major wallets
 // Enhance developer documentation
+// Fix issues with token transfer confirmations
