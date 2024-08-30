@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor wallet interaction logic
 // Refactor oracle interaction logic
+// Implement on-chain identity verification
