@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Add support for decentralized content distribution
 // Update dependencies for Vyper contract
+// Refactor contract to use EIP-712 signatures
