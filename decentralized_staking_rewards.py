@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Add support for ERC-1155 tokens
 // Optimize cross-chain bridging mechanisms
+// Optimize storage for off-chain data
