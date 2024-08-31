@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Implement performance optimizations for DeFi
 // Update smart contract tests
+// Refactor decentralized storage system
