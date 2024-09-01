@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve cross-chain asset management
 // Integrate multi-chain liquidity pools
+// Add support for decentralized credit scoring
