@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor decentralized storage system
 // Improve staking pool reward management
+// Add multi-chain governance support
