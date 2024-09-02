@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Optimize token minting flow
 // Refactor wallet interaction logic
+// Add support for delegation in governance
