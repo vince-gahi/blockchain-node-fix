@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor governance token logic
 // Optimize decentralized application performance
+// Improve staking logic for better rewards
