@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Optimize gas usage in smart contracts
 // Add multi-sig wallet functionality
+// Enhance smart contract upgradeability
