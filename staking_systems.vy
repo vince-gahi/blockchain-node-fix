@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Optimize contract upgrade process
 // Add support for ERC-721A tokens
+// Optimize gas usage for contract deployment
