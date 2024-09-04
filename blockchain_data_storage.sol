@@ -6,3 +6,4 @@
 // Enhance contract state verification
 // Refactor contract state machine design
 // Integrate IPFS for storage
+// Enhance test coverage for Rust module
