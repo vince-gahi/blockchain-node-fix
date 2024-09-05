@@ -8,3 +8,4 @@
 // Improve DApp transaction flow
 // Optimize proof-of-stake validation
 // Refactor token distribution mechanism
+// Refactor token economics model
