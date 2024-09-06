@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Add multi-chain governance support
 // Add support for ERC-721A tokens
+// Add native support for staking rewards
