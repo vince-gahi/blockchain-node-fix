@@ -12,3 +12,4 @@
 // Fix security vulnerability in random number generation
 // Enhance contract modularity
 // Add support for decentralized file storage
+// Add support for yield farming rewards
