@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Optimize cross-chain bridging mechanisms
 // Optimize storage for off-chain data
+// Add native support for staking rewards
