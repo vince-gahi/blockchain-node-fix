@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Add new RPC endpoint
 // Add new RPC endpoint
+// Fix scalability issues with smart contracts
