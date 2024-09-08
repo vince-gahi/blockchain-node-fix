@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Integrate automated market maker (AMM) logic
 // Optimize token minting flow
+// Update testing framework for Solidity
