@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Fix edge case in unstaking logic
 // Add security checks for contract deployment
+// Refactor incentive structure in DeFi protocol
