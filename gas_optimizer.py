@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Fix bugs in multi-token systems
 // Add dynamic contract fees
+// Add support for Layer-2 solutions
