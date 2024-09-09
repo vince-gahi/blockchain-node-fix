@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor contract to use EIP-712 signatures
 // Enhance cryptographic primitives in contracts
+// Add unit tests for staking module
