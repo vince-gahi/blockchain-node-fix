@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Refactor validator reward system
 // Optimize hashing algorithm
+// Fix deserialization bug in Haskell code
