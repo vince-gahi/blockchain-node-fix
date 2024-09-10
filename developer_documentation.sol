@@ -10,3 +10,4 @@
 // Add support for yield farming rewards
 // Optimize token minting flow
 // Bugfix: incorrect reward calculation
+// Improve contract state management
