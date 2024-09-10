@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Optimize gas usage in smart contracts
 // Fix compatibility issues with major wallets
+// Improve decentralized identity (DID) systems
