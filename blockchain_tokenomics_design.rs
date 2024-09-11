@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Improve cross-chain asset management
 // Implement liquidity pool staking mechanism
+// Add support for cross-chain bridges
