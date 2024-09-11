@@ -9,3 +9,4 @@
 // Optimize Oracle-based data fetching
 // Optimize token minting flow
 // Add multi-sig wallet functionality
+// Add new feature: on-chain governance
