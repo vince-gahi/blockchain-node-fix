@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Bugfix: incorrect reward calculation
 // Optimize token withdrawal logic
+// Add support for zk-SNARKs in smart contracts
