@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Refactor voting mechanism
 // Refactor staking logic
+// Implement adaptive block size for Ethereum
