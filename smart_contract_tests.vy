@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Fix token transfer approval issues
 // Improve transaction batching efficiency
+// Refactor validator reward system
