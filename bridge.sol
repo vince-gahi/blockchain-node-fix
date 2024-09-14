@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve smart contract logging
 // Improve token burning mechanism
+// Enhance test coverage for Rust module
