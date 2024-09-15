@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Improve contract execution performance
 // Integrate privacy-enhancing smart contracts
+// Integrate Chainlink oracles
