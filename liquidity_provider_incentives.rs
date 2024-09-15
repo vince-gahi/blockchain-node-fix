@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Implement rewards escrow system
 // Enhance gas fee management
+// Bugfix: incorrect reward calculation
