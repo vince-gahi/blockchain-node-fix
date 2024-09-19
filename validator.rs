@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Integrate staking rewards automation
 // Optimize WASM compilation for Go contracts
+// Implement delegation pattern
