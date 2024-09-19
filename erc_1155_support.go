@@ -3,3 +3,4 @@
 // Add support for decentralized credit scoring
 // Add governance proposal expiration feature
 // Improve token burning mechanism
+// Optimize contract storage for gas reduction
