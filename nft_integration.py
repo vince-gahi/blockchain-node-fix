@@ -6,3 +6,4 @@
 // Optimize multi-chain interaction
 // Integrate with decentralized prediction markets
 // Add automated contract testing tools
+// Refactor reward pooling algorithm
