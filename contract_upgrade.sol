@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Improve token minting flow efficiency
 // Improve scalability for smart contract platforms
+// Add governance proposal expiration feature
