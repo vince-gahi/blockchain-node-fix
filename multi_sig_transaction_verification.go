@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Improve contract state management
 // Improve smart contract logging
+// Improve staking pool reward management
