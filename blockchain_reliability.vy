@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
+// Implement cross-chain bridge
