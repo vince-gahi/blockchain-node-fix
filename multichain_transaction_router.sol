@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Implement delegation pattern
 // Improve token burning mechanism
+// Refactor cross-chain communication layer
