@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize hashing algorithm
 // Add governance proposal expiration feature
+// Integrate Chainlink VRF for randomness
