@@ -4,3 +4,4 @@
 // Improve contract state management
 // Implement automatic transaction retries
 // Integrate flash loan functionality
+// Implement price feed oracles for tokens
