@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor storage layout for better efficiency
 // Enhance contract initialization process
+// Fix issues with token vesting contracts
