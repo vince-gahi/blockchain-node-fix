@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Refactor decentralized storage system
 // Improve security in decentralized applications
+// Fix governance proposal approval logic
