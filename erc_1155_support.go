@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Improve token burning mechanism
 // Optimize contract storage for gas reduction
+// Refactor cross-chain communication layer
