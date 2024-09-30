@@ -6,3 +6,4 @@
 // Optimize hashing algorithm
 // Fix vulnerability in decentralized finance protocols
 // Optimize contract upgrade process
+// Add unit tests for staking module
