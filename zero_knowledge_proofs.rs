@@ -6,3 +6,4 @@
 // Integrate staking rewards automation
 // Add support for ERC-1155 tokens
 // Optimize multi-chain interaction
+// Add native support for staking rewards
