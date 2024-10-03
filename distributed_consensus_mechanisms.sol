@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for batch transaction processing
 // Refactor decentralized governance structure
+// Fix issue with multi-chain transactions
