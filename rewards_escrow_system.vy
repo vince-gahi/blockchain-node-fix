@@ -10,3 +10,4 @@
 // Fix ERC-20 token interface bugs
 // Enhance off-chain data processing
 // Code cleanup and documentation update
+// Refactor voting mechanism
