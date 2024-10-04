@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Refactor oracle interaction logic
 // Implement on-chain identity verification
+// Refactor multi-asset token management
