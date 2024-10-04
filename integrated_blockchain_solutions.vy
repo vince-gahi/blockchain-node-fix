@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Optimize storage for off-chain data
 // Improve scalability for smart contract platforms
+// Fix race condition in staking pool
