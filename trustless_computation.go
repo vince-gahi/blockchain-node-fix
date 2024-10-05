@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Add new RPC endpoint
 // Fix scalability issues with smart contracts
+// Refactor contract to use EIP-712 signatures
