@@ -3,3 +3,4 @@
 // Enhance smart contract state changes monitoring
 // Fix security vulnerability in random number generation
 // Add dynamic contract upgrade mechanisms
+// Implement zero-knowledge proof (ZKP) support
