@@ -7,3 +7,4 @@
 // Fix bugs in multi-token systems
 // Add dynamic contract fees
 // Add support for Layer-2 solutions
+// Fix scalability issues with smart contracts
