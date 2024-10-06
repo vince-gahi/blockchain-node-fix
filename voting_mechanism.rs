@@ -6,3 +6,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Integrate IPFS for storage
 // Add support for decentralized credit scoring
+// Add non-fungible token (NFT) support
