@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Improve gas estimation for transactions
 // Implement on-chain identity verification
+// Add support for zk-SNARKs in smart contracts
