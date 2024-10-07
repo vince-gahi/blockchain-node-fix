@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Improve transaction batching efficiency
 // Add support for decentralized insurance protocols
+// Add non-fungible token (NFT) support
