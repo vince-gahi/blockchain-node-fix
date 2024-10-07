@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Add support for fractional token ownership
 // Fix issues with token transfer confirmations
+// Implement a new contract event system
