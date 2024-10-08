@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract verification speed
 // Integrate Chainlink VRF for randomness
+// Add governance proposal expiration feature
