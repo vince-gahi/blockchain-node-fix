@@ -6,3 +6,4 @@
 // Add support for cross-chain bridges
 // Improve multi-chain transaction processing
 // Update README with Go module examples
+// Optimize cross-chain communication
