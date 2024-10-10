@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix issue in token vesting logic
 // Implement contract function batching
+// Fix errors in NFT minting logic
