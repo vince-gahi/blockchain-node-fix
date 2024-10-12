@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
+// Add fallback mechanism in Solidity contract
