@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate Chainlink oracles
 // Improve contract verification speed
+// Refactor storage layout for better efficiency
