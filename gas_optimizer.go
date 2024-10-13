@@ -9,3 +9,4 @@
 // Fix transaction replay issue
 // Fix race condition in staking pool
 // Optimize WASM compilation for Go contracts
+// Integrate Chainlink oracles
