@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Add support for Layer-2 solutions
 // Update dependencies for Vyper contract
+// Improve contract creation process
