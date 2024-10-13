@@ -6,3 +6,4 @@
 // Integrate with external DeFi protocols
 // Fix bugs in NFT metadata handling
 // Enhance smart contract extensibility
+// Fix governance proposal approval logic
