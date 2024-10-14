@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Fix vulnerabilities in staking contracts
 // Integrate Chainlink oracles
+// Add support for yield farming rewards
