@@ -10,3 +10,4 @@
 // Improve token burning mechanism
 // Enhance test coverage for Rust module
 // Improve security for token minting contracts
+// Add native support for staking mechanisms
