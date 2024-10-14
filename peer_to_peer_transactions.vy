@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Improve token minting flow efficiency
 // Optimize gas cost in function execution
+// Add new RPC endpoint
