@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Add slashing mechanism for malicious actors
 // Improve security for token minting contracts
+// Enhance test coverage for Rust module
