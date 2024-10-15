@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Enhance gas fee management
 // Bugfix: incorrect reward calculation
+// Refactor governance token logic
