@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Fix memory optimization issues in contracts
 // Integrate privacy-enhancing smart contracts
+// Integrate zk-rollups for scaling
