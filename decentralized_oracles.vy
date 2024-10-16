@@ -6,3 +6,4 @@
 // Optimize state channels for faster transactions
 // Add non-fungible token (NFT) support
 // Fix ERC-20 token interface bugs
+// Refactor multi-signature wallet code
