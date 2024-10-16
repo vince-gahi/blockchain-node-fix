@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Enhance off-chain data processing
 // Enhance contract upgrade mechanism
+// Improve ERC-721 token metadata functionality
