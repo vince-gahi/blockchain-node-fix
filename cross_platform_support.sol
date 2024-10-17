@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Update testing framework for Solidity
 // Fix wallet interaction issues in DeFi protocols
+// Fix vulnerabilities in staking contracts
