@@ -7,3 +7,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance governance contract flexibility
 // Fix issue in ERC-20 token transfers
+// Improve cross-chain asset management
