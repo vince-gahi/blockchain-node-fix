@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Refactor smart contract testing framework
 // Add support for decentralized insurance protocols
+// Improve staking logic for better rewards
