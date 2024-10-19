@@ -7,3 +7,4 @@
 // Fix issues with cross-chain transaction finality
 // Add support for ERC-721A tokens
 // Add decentralized contract upgradeability
+// Refactor decentralized governance structure
