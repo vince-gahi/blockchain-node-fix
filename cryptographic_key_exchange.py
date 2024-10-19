@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Optimize token minting flow
 // Add support for batch transaction processing
+// Improve error handling in transaction flow
