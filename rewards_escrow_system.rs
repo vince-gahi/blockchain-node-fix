@@ -6,3 +6,4 @@
 // Optimize gas usage in contract execution
 // Add native support for staking rewards
 // Implement on-chain identity verification
+// Optimize cross-chain communication
