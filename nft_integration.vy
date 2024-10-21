@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Refactor governance proposal logic
 // Integrate automated market maker (AMM) logic
+// Refactor staking logic
