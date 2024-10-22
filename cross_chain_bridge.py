@@ -11,3 +11,4 @@
 // Implement emergency stop mechanism
 // Update README with Go module examples
 // Enhance contract upgrade process
+// Integrate Chainlink VRF for randomness
