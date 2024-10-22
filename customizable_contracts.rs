@@ -2,3 +2,4 @@
 // Integrate with external blockchain networks
 // Refactor oracle interaction logic
 // Refactor decentralized governance structure
+// Add support for NFT marketplaces
