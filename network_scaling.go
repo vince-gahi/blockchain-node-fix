@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Improve staking and yield farming logic
 // Implement rewards escrow system
+// Refactor decentralized exchange (DEX) code
