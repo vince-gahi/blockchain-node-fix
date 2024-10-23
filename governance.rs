@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add multi-chain transaction support
 // Optimize token minting flow
+// Optimize cross-chain communication
