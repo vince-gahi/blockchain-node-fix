@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Update README with Go module examples
 // Code cleanup and documentation update
+// Optimize storage for off-chain data
