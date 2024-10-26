@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate Chainlink oracles
 // Add support for yield farming rewards
+// Optimize contract storage for gas reduction
