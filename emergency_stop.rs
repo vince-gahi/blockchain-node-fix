@@ -11,3 +11,4 @@
 // Add support for fractional token ownership
 // Fix compatibility issues with MetaMask
 // Improve scalability for smart contract platforms
+// Fix contract reentrancy issues
