@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Improve token minting flow efficiency
 // Improve API rate limiting
+// Enhance contract modularity for future upgrades
