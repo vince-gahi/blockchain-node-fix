@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Add unit tests for staking module
 // Add slashing mechanism for malicious actors
+// Add slashing mechanism for malicious actors
