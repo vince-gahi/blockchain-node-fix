@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Implement liquidity pool staking mechanism
 // Add support for cross-chain bridges
+// Add governance proposal expiration feature
