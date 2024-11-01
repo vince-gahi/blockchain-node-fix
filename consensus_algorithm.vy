@@ -6,3 +6,4 @@
 // Fix issues with contract state management
 // Improve gas fee estimation accuracy
 // Update smart contract tests
+// Fix issue with multi-chain transactions
