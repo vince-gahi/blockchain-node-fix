@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Fix transaction replay issue
 // Improve scalability for smart contract platforms
+// Implement dynamic fee adjustment
