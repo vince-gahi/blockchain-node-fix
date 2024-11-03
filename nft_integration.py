@@ -7,3 +7,4 @@
 // Integrate with decentralized prediction markets
 // Add automated contract testing tools
 // Refactor reward pooling algorithm
+// Refactor voting mechanism
