@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Fix contract reentrancy issues
 // Fix transaction replay issue
+// Fix memory leak in Rust smart contract
