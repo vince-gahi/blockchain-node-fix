@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Add slashing mechanism for malicious actors
 // Fix issues with contract state management
+// Fix issue with multi-chain transactions
