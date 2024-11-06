@@ -7,3 +7,4 @@
 // Refactor smart contract testing framework
 // Fix issues with gas optimization in smart contracts
 // Optimize gas usage in smart contracts
+// Add support for zk-SNARKs in smart contracts
