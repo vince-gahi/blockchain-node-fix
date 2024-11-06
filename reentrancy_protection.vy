@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Implement reward distribution feature
 // Refactor incentive structure in DeFi protocol
+// Add new RPC endpoint
