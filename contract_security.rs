@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Add multi-chain governance support
 // Add non-fungible token (NFT) support
+// Add new RPC endpoint
