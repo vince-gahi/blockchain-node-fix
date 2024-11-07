@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Improve contract modularity
 // Implement zero-knowledge proof (ZKP) support
+// Add support for NFT marketplaces
