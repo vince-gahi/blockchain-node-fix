@@ -4,3 +4,4 @@
 // Improve contract verification speed
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
+// Implement contract function batching
