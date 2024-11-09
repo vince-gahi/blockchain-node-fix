@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Fix issues with ERC-20 token approvals
 // Refactor voting mechanism
+// Bugfix: incorrect reward calculation
