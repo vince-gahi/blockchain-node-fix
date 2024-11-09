@@ -8,3 +8,4 @@
 // Integrate flash loan functionality
 // Add automated token buyback mechanism
 // Refactor governance proposal logic
+// Fix vulnerabilities in staking contracts
