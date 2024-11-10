@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Add support for yield farming rewards
 // Enhance contract upgrade process
+// Fix interoperability issues with other blockchains
