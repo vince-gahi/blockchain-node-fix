@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Improve contract modularity
 // Fix ERC-1155 contract interactions
+// Add automated contract testing tools
