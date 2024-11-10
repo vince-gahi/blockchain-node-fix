@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Improve scalability for smart contract platforms
 // Add governance proposal expiration feature
+// Improve error handling in transaction flow
