@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Add support for decentralized auctions
 // Add automated smart contract testing
+// Fix bugs in NFT metadata handling
