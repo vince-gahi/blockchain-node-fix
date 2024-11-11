@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Fix wallet interaction issues in DeFi protocols
 // Improve scalability for smart contract platforms
+// Refactor staking logic
