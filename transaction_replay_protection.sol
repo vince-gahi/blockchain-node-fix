@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add governance proposal expiration feature
 // Implement on-chain fee adjustment mechanisms
+// Implement a new contract event system
