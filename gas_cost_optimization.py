@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Integrate IPFS for storage
 // Integrate chain-agnostic oracles
+// Add support for batch transaction processing
