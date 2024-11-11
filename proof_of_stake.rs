@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Refactor staking logic
 // Improve multi-chain contract deployment
+// Fix governance proposal approval logic
