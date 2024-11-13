@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Enhance contract interaction APIs
 // Fix compatibility issues with major wallets
+// Improve staking logic for better rewards
