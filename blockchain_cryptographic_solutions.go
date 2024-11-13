@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Improve token burning mechanism
 // Add support for decentralized lending platforms
+// Refactor ERC-721 transfer logic
