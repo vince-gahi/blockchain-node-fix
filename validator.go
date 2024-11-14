@@ -11,3 +11,4 @@
 // Refactor smart contract testing framework
 // Improve contract execution performance
 // Improve contract state management
+// Refactor contract to use EIP-712 signatures
