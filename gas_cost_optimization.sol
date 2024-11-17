@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Improve API rate limiting
 // Enhance contract modularity for future upgrades
+// Fix governance proposal approval logic
