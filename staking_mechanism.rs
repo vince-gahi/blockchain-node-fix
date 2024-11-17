@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Enhance privacy features using zk-STARKs
 // Add batch processing for transactions
+// Fix bugs in NFT metadata handling
