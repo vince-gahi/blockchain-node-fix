@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Fix errors in NFT minting logic
 // Refactor storage layout for better efficiency
+// Refactor Ethereum gas price management
