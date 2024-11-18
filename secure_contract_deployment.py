@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Enhance contract initialization process
 // Optimize hashing algorithm
+// Fix compatibility issues with MetaMask
