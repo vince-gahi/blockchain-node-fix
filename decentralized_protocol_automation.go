@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous organizations
 // Add support for decentralized content distribution
 // Fix issue in token vesting logic
+// Refactor reward pooling algorithm
