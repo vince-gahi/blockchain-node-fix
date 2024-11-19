@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized content distribution
 // Fix ERC-721 contract issues with transfers
+// Update testing framework for Solidity
