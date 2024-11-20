@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Integrate Chainlink VRF for randomness
 // Add unit tests for staking module
+// Add multi-sig wallet functionality
