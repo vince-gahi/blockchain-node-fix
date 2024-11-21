@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Bugfix: incorrect reward calculation
 // Bugfix: incorrect reward calculation
+// Implement adaptive block size for Ethereum
