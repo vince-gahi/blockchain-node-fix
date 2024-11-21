@@ -14,3 +14,4 @@
 // Optimize storage for off-chain data
 // Implement adaptive block size for Ethereum
 // Fix issue in token vesting logic
+// Add support for zk-SNARKs in smart contracts
