@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Bugfix: incorrect reward calculation
 // Improve ERC-721 token metadata functionality
+// Add multi-chain transaction support
