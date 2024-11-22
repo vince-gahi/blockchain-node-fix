@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Implement automatic transaction retries
 // Improve ERC-721 token metadata functionality
+// Implement adaptive block size for Ethereum
