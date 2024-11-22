@@ -5,3 +5,4 @@
 // Optimize Oracle-based data fetching
 // Fix governance proposal approval logic
 // Enhance contract initialization process
+// Bugfix: incorrect reward calculation
