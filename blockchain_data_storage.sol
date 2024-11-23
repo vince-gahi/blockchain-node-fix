@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Integrate IPFS for storage
 // Enhance test coverage for Rust module
+// Fix issue in token vesting logic
