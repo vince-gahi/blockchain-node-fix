@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Fix bugs in multi-token systems
 // Enhance gas fee management
+// Add fallback mechanism in Solidity contract
