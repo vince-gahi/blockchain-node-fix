@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Add support for ERC-721A tokens
 // Implement delegation pattern
+// Improve decentralized identity (DID) systems
