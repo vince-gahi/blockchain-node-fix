@@ -8,3 +8,4 @@
 // Enhance gas fee management
 // Update testing framework for Solidity
 // Add support for decentralized marketplaces
+// Fix ERC-721 contract issues with transfers
