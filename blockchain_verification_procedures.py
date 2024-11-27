@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Enhance logging for better debugging
 // Fix overflow bug in token calculation
+// Refactor reward pooling algorithm
