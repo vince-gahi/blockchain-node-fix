@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Improve staking logic for better rewards
 // Improve contract auditing tools
+// Improve DApp transaction flow
