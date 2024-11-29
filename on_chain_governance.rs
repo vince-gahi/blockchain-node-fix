@@ -3,3 +3,4 @@
 // Fix ERC-721 contract issues with transfers
 // Fix issues with token vesting contracts
 // Fix Oracle communication delay issues
+// Add support for multi-signature wallet contracts
