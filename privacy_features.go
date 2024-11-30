@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Optimize storage for off-chain data
 // Refactor multi-asset token management
+// Refactor storage layout for better efficiency
