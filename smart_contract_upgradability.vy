@@ -3,3 +3,4 @@
 // Fix memory optimization issues in contracts
 // Integrate privacy-enhancing smart contracts
 // Integrate zk-rollups for scaling
+// Optimize storage for off-chain data
