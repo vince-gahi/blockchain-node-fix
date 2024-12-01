@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor oracle interaction logic
 // Implement cross-platform contract compatibility
+// Refactor contract to use EIP-712 signatures
