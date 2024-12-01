@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Enhance smart contract extensibility
 // Add support for delegation in governance
+// Bugfix: incorrect reward calculation
