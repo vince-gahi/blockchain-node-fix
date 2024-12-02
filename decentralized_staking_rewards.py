@@ -6,3 +6,4 @@
 // Add native support for staking rewards
 // Upgrade to latest Solidity version
 // Implement adaptive block size for Ethereum
+// Add support for zk-SNARKs in smart contracts
