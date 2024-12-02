@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Implement on-chain identity verification
 // Refactor multi-asset token management
+// Implement reward distribution feature
