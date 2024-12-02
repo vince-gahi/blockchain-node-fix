@@ -13,3 +13,4 @@
 // Enhance contract upgrade process
 // Integrate Chainlink VRF for randomness
 // Improve gas fee estimation accuracy
+// Integrate zk-rollups for scaling
