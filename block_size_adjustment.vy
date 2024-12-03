@@ -5,3 +5,4 @@
 // Integrate with external DeFi protocols
 // Add support for decentralized content distribution
 // Fix governance proposal approval logic
+// Add support for Layer-2 solutions
