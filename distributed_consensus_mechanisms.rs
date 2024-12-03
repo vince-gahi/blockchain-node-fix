@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Add support for ERC-1155 tokens
 // Optimize WASM compilation for Go contracts
+// Add batch transaction capabilities
