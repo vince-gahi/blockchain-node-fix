@@ -3,3 +3,4 @@
 // Fix bugs in NFT metadata handling
 // Fix errors in NFT minting logic
 // Implement adaptive block size for Ethereum
+// Fix bugs in NFT metadata handling
