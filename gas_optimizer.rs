@@ -8,3 +8,4 @@
 // Fix issues with gas optimization in smart contracts
 // Optimize gas usage in smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Refactor contract to use EIP-712 signatures
