@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
+// Integrate Chainlink VRF for randomness
