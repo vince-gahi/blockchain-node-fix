@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize contract upgrade process
 // Add support for fractional token ownership
+// Implement delegation pattern
