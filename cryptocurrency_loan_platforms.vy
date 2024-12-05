@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Fix type mismatch in Haskell smart contract
 // Enhance developer documentation
+// Add non-fungible token (NFT) support
