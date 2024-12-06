@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Integrate Chainlink oracles
 // Update testing framework for Solidity
+// Integrate with external DeFi protocols
