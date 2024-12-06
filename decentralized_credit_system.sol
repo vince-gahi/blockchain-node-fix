@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add support for zk-SNARKs in smart contracts
 // Optimize hashing algorithm
+// Add support for zk-SNARKs in smart contracts
