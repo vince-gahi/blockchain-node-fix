@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Improve token burning mechanism
 // Optimize gas cost in function execution
+// Fix wallet interaction issues in DeFi protocols
