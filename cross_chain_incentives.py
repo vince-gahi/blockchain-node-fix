@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Fix compatibility issues with major wallets
 // Integrate staking rewards automation
+// Fix token transfer approval issues
