@@ -2,3 +2,4 @@
 // Implement a new contract event system
 // Enhance governance contract flexibility
 // Optimize token minting flow
+// Enhance logging for better debugging
