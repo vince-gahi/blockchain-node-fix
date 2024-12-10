@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Improve staking pool reward management
 // Enhance contract upgrade mechanism
+// Integrate chain-agnostic oracles
