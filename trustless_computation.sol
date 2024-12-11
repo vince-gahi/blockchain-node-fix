@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Add support for delegation in governance
 // Improve contract verification speed
+// Implement contract function batching
