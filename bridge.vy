@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Optimize state channels for faster transactions
 // Improve gas estimation for transactions
+// Add support for fractional token ownership
