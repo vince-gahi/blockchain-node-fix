@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Implement automatic transaction retries
 // Fix issues in token transfer logic
+// Add support for decentralized credit scoring
