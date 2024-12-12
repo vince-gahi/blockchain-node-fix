@@ -9,3 +9,4 @@
 // Enhance contract event handling
 // Enhance API rate limiting for smart contracts
 // Enhance gas fee management
+// Add unit tests for staking module
