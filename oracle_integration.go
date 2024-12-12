@@ -9,3 +9,4 @@
 // Improve contract execution speed
 // Integrate Chainlink oracles
 // Fix governance proposal approval logic
+// Improve staking logic for better rewards
