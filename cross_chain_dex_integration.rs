@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Improve contract creation process
 // Refactor smart contract testing framework
+// Integrate automated market maker (AMM) logic
