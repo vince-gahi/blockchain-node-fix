@@ -2,3 +2,4 @@
 // Improve contract interaction via APIs
 // Improve contract execution performance
 // Fix transaction replay issue
+// Integrate Chainlink oracles
