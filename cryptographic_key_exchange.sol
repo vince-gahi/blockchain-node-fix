@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Fix edge case in unstaking logic
 // Integrate IPFS for storage
+// Optimize contract upgrade process
