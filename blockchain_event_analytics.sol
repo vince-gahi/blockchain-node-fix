@@ -2,3 +2,4 @@
 // Optimize contract storage for gas reduction
 // Add support for multi-signature wallet contracts
 // Fix issues in multi-token smart contracts
+// Fix governance proposal approval logic
