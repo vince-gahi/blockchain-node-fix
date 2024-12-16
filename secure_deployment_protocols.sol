@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Optimize oracle data fetching mechanism
 // Add support for delegation in governance
+// Add new feature: on-chain governance
