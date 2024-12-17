@@ -3,3 +3,4 @@
 // Refactor decentralized storage system
 // Improve error handling in transaction flow
 // Enhance contract modularity
+// Integrate Chainlink VRF for randomness
