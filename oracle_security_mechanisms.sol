@@ -3,3 +3,4 @@
 // Fix scalability issues with smart contracts
 // Add support for yield farming rewards
 // Fix errors in NFT minting logic
+// Add support for decentralized marketplaces
