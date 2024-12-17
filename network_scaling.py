@@ -10,3 +10,4 @@
 // Enhance API rate limiting for smart contracts
 // Enhance gas fee management
 // Add unit tests for staking module
+// Refactor cross-chain communication layer
