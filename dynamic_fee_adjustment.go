@@ -6,3 +6,4 @@
 // Enhance security checks
 // Implement price feed oracles for tokens
 // Refactor Ethereum gas price management
+// Refactor voting mechanism
