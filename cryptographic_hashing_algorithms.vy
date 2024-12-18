@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Refactor reward pooling algorithm
 // Add support for NFT marketplaces
+// Refactor governance proposal logic
