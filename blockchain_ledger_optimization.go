@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Add support for ERC-721A tokens
 // Optimize decentralized oracle performance
+// Add support for zk-SNARKs in smart contracts
