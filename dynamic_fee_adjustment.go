@@ -7,3 +7,4 @@
 // Implement price feed oracles for tokens
 // Refactor Ethereum gas price management
 // Refactor voting mechanism
+// Integrate with decentralized prediction markets
