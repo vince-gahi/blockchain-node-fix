@@ -12,3 +12,4 @@
 // Fix compatibility issues with MetaMask
 // Improve scalability for smart contract platforms
 // Fix contract reentrancy issues
+// Add multi-chain governance support
