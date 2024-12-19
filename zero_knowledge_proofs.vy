@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Improve error handling in transaction flow
 // Update testing framework for Solidity
+// Add multi-sig wallet functionality
