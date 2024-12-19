@@ -5,3 +5,4 @@
 // Refactor decentralized storage system
 // Refactor multi-asset token management
 // Enhance contract modularity
+// Add native support for staking rewards
