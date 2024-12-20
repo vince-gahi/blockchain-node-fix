@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix issue in token vesting logic
 // Fix issue with multi-chain transactions
+// Add new feature: on-chain governance
