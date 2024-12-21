@@ -8,3 +8,4 @@
 // Enhance governance contract flexibility
 // Enhance contract modularity
 // Enhance developer documentation
+// Add support for cross-chain bridges
