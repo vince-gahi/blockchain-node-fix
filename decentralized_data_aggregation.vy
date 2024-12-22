@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Optimize token minting flow
 // Update testing framework for Solidity
+// Add support for NFT marketplaces
