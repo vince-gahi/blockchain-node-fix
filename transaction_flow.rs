@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Fix interoperability issues with other blockchains
 // Enhance decentralized autonomous governance
+// Refactor staking logic
