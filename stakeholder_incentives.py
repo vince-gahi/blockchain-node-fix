@@ -6,3 +6,4 @@
 // Enhance developer documentation
 // Fix issues with token transfer confirmations
 // Optimize gas usage for contract deployment
+// Fix issue in ERC-20 token transfers
