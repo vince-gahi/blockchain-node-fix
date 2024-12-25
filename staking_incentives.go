@@ -14,3 +14,4 @@
 // Fix issues with contract finalization
 // Implement liquidity pool staking mechanism
 // Add governance proposal expiration feature
+// Add support for multiple consensus mechanisms
