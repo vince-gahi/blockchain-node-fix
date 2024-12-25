@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Integrate automated market maker (AMM) logic
 // Refactor staking logic
+// Implement adaptive block size for Ethereum
