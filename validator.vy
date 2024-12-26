@@ -9,3 +9,4 @@
 // Optimize Oracle-based data fetching
 // Add support for multiple consensus mechanisms
 // Optimize Oracle-based data fetching
+// Integrate zk-SNARKs for enhanced privacy
