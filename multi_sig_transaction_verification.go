@@ -6,3 +6,4 @@
 // Improve contract state management
 // Improve smart contract logging
 // Improve staking pool reward management
+// Implement adaptive block size for Ethereum
