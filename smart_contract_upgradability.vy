@@ -4,3 +4,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate zk-rollups for scaling
 // Optimize storage for off-chain data
+// Fix scalability issues with smart contracts
