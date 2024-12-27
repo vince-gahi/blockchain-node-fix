@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Add support for decentralized credit scoring
 // Add non-fungible token (NFT) support
+// Add multi-sig wallet functionality
