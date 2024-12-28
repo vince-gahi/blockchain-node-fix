@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Integrate flash loan functionality
 // Implement price feed oracles for tokens
+// Update README with Go module examples
