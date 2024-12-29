@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Fix interoperability issues with other blockchains
 // Fix security vulnerability in random number generation
+// Fix compatibility issues with major wallets
