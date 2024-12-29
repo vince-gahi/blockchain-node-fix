@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement adaptive block size for Ethereum
 // Improve token burning mechanism
+// Refactor decentralized exchange (DEX) code
