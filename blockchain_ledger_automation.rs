@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Add support for decentralized insurance protocols
 // Add non-fungible token (NFT) support
+// Add new RPC endpoint
