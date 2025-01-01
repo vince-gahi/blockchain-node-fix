@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Implement time-locked contract execution
 // Enhance logging for better debugging
+// Enhance governance contract flexibility
