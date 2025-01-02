@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Add slashing mechanism for malicious actors
 // Integrate zk-rollups for scaling
+// Enhance decentralized autonomous governance
