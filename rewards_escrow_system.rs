@@ -9,3 +9,4 @@
 // Optimize cross-chain communication
 // Implement contract function batching
 // Optimize Oracle-based data fetching
+// Add new RPC endpoint
