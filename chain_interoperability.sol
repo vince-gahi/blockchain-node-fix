@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Add new RPC endpoint
 // Enhance smart contract extensibility
+// Fix vulnerabilities in staking contracts
