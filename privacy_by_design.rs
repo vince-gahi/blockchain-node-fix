@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Add native support for staking mechanisms
 // Reduce gas cost in minting logic
+// Improve cross-chain asset management
