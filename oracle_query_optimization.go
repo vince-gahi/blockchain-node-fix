@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Implement delegation pattern
 // Add support for fractional token ownership
+// Implement liquidity pool staking mechanism
