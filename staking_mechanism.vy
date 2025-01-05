@@ -7,3 +7,4 @@
 // Refactor storage layout for better efficiency
 // Refactor Ethereum gas price management
 // Add support for zk-SNARKs in smart contracts
+// Add batch processing for transactions
