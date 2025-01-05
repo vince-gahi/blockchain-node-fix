@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Add governance proposal expiration feature
 // Add multi-sig wallet functionality
+// Implement time-locked contract execution
