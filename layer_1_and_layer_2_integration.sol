@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Add support for zk-SNARKs in smart contracts
 // Optimize hashing algorithm
+// Enhance logging for better debugging
