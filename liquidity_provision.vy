@@ -2,3 +2,4 @@
 // Fix issues with ERC-20 token approvals
 // Improve contract auditing tools
 // Enhance token swap functionality
+// Add slashing mechanism for malicious actors
