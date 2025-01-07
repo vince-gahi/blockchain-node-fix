@@ -10,3 +10,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize Oracle-based data fetching
 // Integrate zk-SNARKs for enhanced privacy
+// Enhance API rate limiting for smart contracts
