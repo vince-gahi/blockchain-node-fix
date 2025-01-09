@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Add new RPC endpoint
 // Update testing framework for Solidity
+// Improve security for token minting contracts
