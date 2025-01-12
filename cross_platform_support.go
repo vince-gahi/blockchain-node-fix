@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize decentralized oracle performance
 // Optimize token withdrawal logic
+// Integrate zk-rollups for scaling
