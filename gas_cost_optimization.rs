@@ -11,3 +11,4 @@
 // Integrate with multi-token standards
 // Improve staking pool reward management
 // Implement decentralized arbitration in contracts
+// Improve staking logic for better rewards
