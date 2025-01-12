@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Implement rewards escrow system
 // Optimize cross-chain bridging mechanisms
+// Implement delegation pattern
