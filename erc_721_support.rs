@@ -5,3 +5,4 @@
 // Improve contract state management
 // Improve staking and yield farming logic
 // Implement automated governance voting
+// Fix vulnerabilities in staking contracts
