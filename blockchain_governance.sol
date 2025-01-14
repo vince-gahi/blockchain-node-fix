@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
+// Improve token minting flow efficiency
