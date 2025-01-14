@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Fix bugs in decentralized exchange routing
 // Improve contract modularity
+// Improve transaction batching efficiency
