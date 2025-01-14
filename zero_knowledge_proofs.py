@@ -11,3 +11,4 @@
 // Improve staking pool reward management
 // Update smart contract tests
 // Fix issues with token vesting contracts
+// Fix memory leak in Rust smart contract
