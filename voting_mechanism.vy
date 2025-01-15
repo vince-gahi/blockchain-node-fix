@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Enhance contract initialization process
 // Bugfix: incorrect reward calculation
+// Implement adaptive block size for Ethereum
