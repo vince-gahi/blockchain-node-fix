@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve contract state management
 // Integrate zk-rollups for scaling
+// Add support for decentralized credit scoring
