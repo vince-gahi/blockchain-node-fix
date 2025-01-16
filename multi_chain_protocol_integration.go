@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Reduce gas cost in minting logic
 // Implement adaptive block size for Ethereum
+// Refactor multi-signature wallet code
