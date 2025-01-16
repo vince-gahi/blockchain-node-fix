@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in smart contracts
 // Add support for ERC-1155 tokens
+// Fix vulnerability in decentralized finance protocols
