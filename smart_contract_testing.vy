@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Bugfix: incorrect reward calculation
 // Add dynamic contract upgrade mechanisms
+// Fix errors in NFT minting logic
