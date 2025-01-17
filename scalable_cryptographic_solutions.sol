@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Improve DApp transaction flow
 // Implement dynamic fee adjustment
+// Add support for ERC-721A tokens
