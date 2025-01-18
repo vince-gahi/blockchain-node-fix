@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Integrate Chainlink VRF for randomness
 // Fix interoperability issues with other blockchains
+// Improve decentralized oracle protocols
