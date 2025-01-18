@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Optimize WASM compilation for Go contracts
 // Add batch transaction capabilities
+// Add batch processing for transactions
