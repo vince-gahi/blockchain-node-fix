@@ -10,3 +10,4 @@
 // Improve DApp transaction flow
 // Fix token transfer approval issues
 // Fix bugs in NFT metadata handling
+// Add native support for staking rewards
