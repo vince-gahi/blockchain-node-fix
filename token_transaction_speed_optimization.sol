@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Fix errors in NFT minting logic
 // Add batch processing for transactions
+// Add support for Layer-2 solutions
