@@ -9,3 +9,4 @@
 // Fix race condition in staking pool
 // Refactor cross-chain communication layer
 // Implement decentralized arbitration in contracts
+// Implement on-chain identity verification
