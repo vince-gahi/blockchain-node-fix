@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Improve token minting flow efficiency
 // Enhance token swap functionality
+// Refactor decentralized storage system
