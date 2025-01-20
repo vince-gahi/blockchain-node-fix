@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Implement delegation pattern
 // Add multi-chain governance support
+// Fix errors in contract interaction with wallets
