@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix compatibility with MetaMask
 // Refactor incentive structure in DeFi protocol
+// Add dynamic contract fees
