@@ -9,3 +9,4 @@
 // Fix issue in token vesting logic
 // Enhance contract modularity
 // Improve error handling in transaction flow
+// Fix governance proposal approval logic
