@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Add support for decentralized file storage
 // Fix compatibility issues with MetaMask
+// Add new feature: on-chain governance
