@@ -10,3 +10,4 @@
 // Add automated contract testing tools
 // Optimize state channels for faster transactions
 // Integrate automated market maker (AMM) logic
+// Integrate IPFS for storage
