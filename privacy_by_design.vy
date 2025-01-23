@@ -6,3 +6,4 @@
 // Enhance test coverage for Rust module
 // Add support for multi-signature wallet contracts
 // Optimize token minting flow
+// Improve error handling in transaction flow
