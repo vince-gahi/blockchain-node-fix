@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve security in decentralized applications
 // Fix data consistency issues in smart contracts
+// Fix vulnerabilities in staking contracts
