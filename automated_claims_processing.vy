@@ -7,3 +7,4 @@
 // Enhance contract event handling
 // Integrate Chainlink oracles for price data
 // Implement liquidity pool staking mechanism
+// Integrate IPFS for storage
