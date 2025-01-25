@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add decentralized contract upgradeability
 // Improve decentralized exchange (DEX) liquidity
+// Add new RPC endpoint
