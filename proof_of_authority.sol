@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Add slashing mechanism for malicious actors
 // Add slashing mechanism for malicious actors
+// Fix type mismatch in Haskell smart contract
