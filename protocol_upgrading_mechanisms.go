@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve contract modularity
 // Improve transaction batching efficiency
+// Integrate with decentralized identity providers
