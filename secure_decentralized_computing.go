@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Enhance contract state verification
 // Fix vulnerability in decentralized finance protocols
+// Update README with Go module examples
