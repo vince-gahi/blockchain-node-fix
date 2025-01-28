@@ -10,3 +10,4 @@
 // Optimize state channels for faster transactions
 // Improve gas estimation for transactions
 // Add support for fractional token ownership
+// Fix issues in multi-token smart contracts
