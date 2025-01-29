@@ -10,3 +10,4 @@
 // Fix overflow bug in token calculation
 // Enhance contract interaction APIs
 // Fix bug in random number generation
+// Enhance test coverage for Rust module
