@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Refactor reward pooling algorithm
 // Fix issues in multi-token smart contracts
+// Add fallback mechanism in Solidity contract
