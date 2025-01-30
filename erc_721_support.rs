@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Implement automated governance voting
 // Fix vulnerabilities in staking contracts
+// Integrate flash loan functionality
