@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Fix overflow bug in token calculation
 // Fix issues with contract finalization
+// Add support for Layer-2 solutions
