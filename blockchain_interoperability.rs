@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Improve DApp transaction flow
 // Update README with Go module examples
+// Integrate decentralized prediction models
