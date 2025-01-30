@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Enhance contract initialization process
 // Add batch transaction capabilities
+// Add slashing mechanism for malicious actors
