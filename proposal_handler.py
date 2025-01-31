@@ -8,3 +8,4 @@
 // Add support for Layer-2 solutions
 // Refactor contract state machine design
 // Fix transaction replay issue
+// Improve gas estimation for transactions
